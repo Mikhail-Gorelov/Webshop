@@ -1,2 +1,0 @@
-# Webshop
-Webshop frontend part
